@@ -1,0 +1,3 @@
+[submodule "malicious_hook"]
+    path = .git/modules/malicious_hook
+    url = https://github.com/torvalds/linux.git
